@@ -1,12 +1,18 @@
 # make-it-or-break-it
 This repository will explore the Divorce data set and what all factors are the culprits behind the divorce.
 
-The dataset with which we will work is Divorce Predictors Data Set which is available in UCI Machine Learning Repository.
+#### The dataset which we'll work with is Divorce Predictors Data Set which is available in UCI Machine Learning Repository.
+
 We will try to predict which all reasons are contributting the probability of getting the divorce.
 Get your dataset from [here](https://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set)
 
-_ _The data set comes in RAR file format.
-_ _Those who are not familiar with RAR format they can perform the extraction by downloading the WinRAR [here]       (https://www.rarlab.com/download.htm)
+![download](https://user-images.githubusercontent.com/54616526/68861298-4c0d4d00-0711-11ea-88ef-e47699a12c73.jpg)
+
+*The data set comes in RAR file format.*
+*Those who are not familiar with RAR format they can perform the extraction by downloading the WinRAR https://www.rarlab.com/download.htm*
+
+The dataset contains 54 columns with names starting from Attr1, Attr2....Attr53, Attr54.
+The below list downs the reason or the cause of the divorce.
 
 Attribute Information:
 
