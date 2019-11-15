@@ -11,8 +11,19 @@ Get your dataset from [here](https://archive.ics.uci.edu/ml/datasets/Divorce+Pre
 *The data set comes in RAR file format.*
 *Those who are not familiar with RAR format they can perform the extraction by downloading the WinRAR https://www.rarlab.com/download.htm*
 
-The dataset contains 54 columns with names starting from Attr1, Attr2....Attr53, Attr54.
-The below list downs the reason or the cause of the divorce.
+This multivariate classification problem is solved using the below 6 algorithms to check which one is achieving the maximum accuracy.
+***1. Logistic Regression***
+***2. Naive Bayes***
+***3. K-Nearest Neighbours***
+***4. Decision Tree***
+***5. Random Forest***
+***6. Support Vector Machine***
+
+The mechanism of choosing the algorithm is depicted below.
+![Screen-Shot](https://user-images.githubusercontent.com/54616526/68945052-71fc2580-07d5-11ea-98f7-d127c2c05c18.png)
+
+
+The dataset contains 54 columns with names starting from Atr1, Atr2....Atr53, Atr54.
 
 Attribute Information:
 
